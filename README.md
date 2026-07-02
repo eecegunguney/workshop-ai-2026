@@ -30,3 +30,15 @@ Then visit http://localhost:8000.
 
 The page is hosted with GitHub Pages from the `main` branch. Any change pushed
 to `main` is published automatically.
+
+
+## References
+* https://cevheri.medium.com/loop-engineering-how-we-built-a-database-while-mostly-watching-d6b8fa5bfc85
+* https://medium.com/@amirkiarafiei/harness-engineering-what-it-is-and-how-it-complements-context-engineering-6545b40bfc84
+* https://libredb.org/
+* https://github.com/libredb/libredb-studio
+* https://github.com/libredb/libredb-database
+* 
+
+
+
